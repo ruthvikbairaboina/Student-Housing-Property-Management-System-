@@ -1,6 +1,6 @@
 # Student Housing Property Management System
 
-Full-stack project built with **React + Tailwind CSS** (frontend) and **Node.js + Express + MySQL** (backend).
+Built Full-stack project with **React + Tailwind CSS** (frontend) and **Node.js + Express + MySQL** (backend).
 
 ## Features implemented
 
